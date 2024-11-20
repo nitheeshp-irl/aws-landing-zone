@@ -1,0 +1,26 @@
+{
+    "governedRegions": ["us-east-2","us-west-2"],
+    "organizationStructure": {
+        "security": {
+            "name": "core"
+        }
+    },
+    "centralizedLogging": {
+         "accountId": "",
+         "configurations": {
+             "loggingBucket": {
+                 "retentionDays": 60
+             },
+             "accessLoggingBucket": {
+                 "retentionDays": 60
+             }
+         },
+         "enabled": true
+    },
+    "securityRoles": {
+         "accountId": ""
+    },
+    "accessManagement": {
+         "enabled": true
+    }
+ }

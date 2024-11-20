@@ -1,0 +1,7 @@
+region = "us-east-2"
+landingzone_version = "3.3"
+logging_account_email = ""
+logging_account_name  = "logs"
+security_account_email = ""
+security_account_name  = ""
+administrator_account_id = ""
